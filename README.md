@@ -22,7 +22,7 @@
 ### 📗 TIL - Git
 
 ### 📘 TIL - JavaScript
-* [JavaScript - Momentum Project]()
+* [01_JS for Beginners ](https://github.com/yerin512/TIL-/blob/main/JavaScript/Vanilla%20Javascript/01_JS%20for%20Beginners.md)
 
 ### 📙 TIL - React
 
