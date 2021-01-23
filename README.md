@@ -22,7 +22,8 @@
 ### 📗 TIL - Git
 
 ### 📘 TIL - JavaScript
-* [01_JS for Beginners ](https://github.com/yerin512/TIL-/blob/main/JavaScript/Vanilla%20Javascript/01_JS%20for%20Beginners.md)
+* [00_JS for Beginners.md ](https://github.com/yerin512/TIL-/blob/main/JavaScript/Vanilla%20Javascript/01_JS%20for%20Beginners.md)
+* [00_ECMAScript.md](https://github.com/yerin512/TIL-/blob/main/JavaScript/Vanilla%20Javascript/00_ECMAScript.md)
 
 ### 📙 TIL - React
 
