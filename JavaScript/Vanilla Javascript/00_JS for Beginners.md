@@ -25,3 +25,16 @@ for (let i in lis){lis[i].style='red'}
 해당 구문 뿐 아니라 라이브러리 파일 안을 몇 바퀴 돌고 오는 일도 있기 때문이다.
 
 [참조](https://namu.wiki/w/Vanilla%20JS?from=%EB%B0%94%EB%8B%90%EB%9D%BC%20JS)
+
+
+### 📖 0-2 What are we building : JS for Beginners 
+
+### 📖 1-1 Why JS? : JS for Beginners
+
+### 📖 1-2 Super Powers of JS
+
+### 📖 1-3 ES5, ES6 ES....WTF!?!?!
+ #### ECMAScript 와 JavaScript의 차이점
+
+### 📖 1-4 VanillaJS
+ #### 바닐라 자바스크립트를 배워야하는 이유
