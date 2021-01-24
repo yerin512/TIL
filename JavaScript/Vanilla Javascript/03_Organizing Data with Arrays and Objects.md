@@ -102,7 +102,7 @@ fatty:true
 }]  // Object의 배열
 
 }
-
+ 
 
 console.log(info) 출력
 
