@@ -1,5 +1,5 @@
 
-## 📖 Making a JS Clock part One
+## 📖 Making a JS Clock
 #### 자바스크립트로 실시간 시계를 만들어보자!
 
 ```html
@@ -49,6 +49,11 @@ function init(){
 
 init();
 ```
+
+### ⭐ 기억할 점 ⭐
+*  const date = new Date();
+*  ${hours < 10 ? `0${hours}` : hours }
+* setInterval(getTime, 1000);
 
 
 
