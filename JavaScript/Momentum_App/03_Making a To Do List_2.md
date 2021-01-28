@@ -1,5 +1,5 @@
 ## 📖 Making a To Do List part Two
-#### To Do List를 만들어보자! 2
+#### toDoList 를 저장해서 화면에 띄우기
 
 ```html
 <!DOCTYPE html>
@@ -127,7 +127,7 @@ init();
 *  const parsedToDos = JSON.parse(loadedToDos); 
 ㄴ 자바스크립트는 object를 못읽어서 json으로 string을 object로 변경해줘야함
 *  parsedToDos.forEach(function(toDo){});
-ㄴ array를 각각 사용할수 있는 
+ㄴ array를 각각 사용할수 있
 
 
 
