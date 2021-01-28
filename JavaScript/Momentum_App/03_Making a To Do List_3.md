@@ -138,7 +138,7 @@ init();
 ### ⭐ 기억할 점 ⭐
 *  const btn = event.target; 해당 버튼만 선택되게
 *  const li = btn.parentNode; 누르는 버튼의 부모 LI 아이디 찾기
-*  filter, forEach 기억하기! 얘네가 list에 있는 item을 위한 함수를 실행하는 거임!
+*  filter, forEach 기억하기! 얘네가 list에 있는 item을 위한 함수를 실행하는 거임! 
 
 
 
