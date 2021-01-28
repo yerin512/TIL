@@ -79,6 +79,7 @@ h1{
 ```
 
 ```javascript
+const API_KEY = "9926ecd46b4bf49e221ec35040e0f3a9"; //https://home.openweathermap.org/api_keys
 const COORDS = 'coords';
 
 
