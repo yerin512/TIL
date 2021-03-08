@@ -7,7 +7,7 @@ https://youtu.be/OCCpGh4ujb8
 
 'use strict';
 
-//2. Variable
+//2. Variable, rw(read/write)
 //let(added in ES6)
 //Mutable type
 let globalName = 'global name';
@@ -31,7 +31,8 @@ console.log(globalName);
 
 console.log(age);
 
-//3. Contants
+//3. Contant, r(read only)
+//use const whenenver possible
 //Immutable type
 //favor immutable data type always for a few reasons:
 // - security
@@ -40,8 +41,11 @@ console.log(age);
 const daysInWeek = 7;
 const maxNumber = 5;
 
+
+
+
 //4. Variable types
-//primitive, single item: number, string, boolean
+//primitive, single item: number, string, boolean, null, undefined, symbol
 //object, box container
 //function, first-class function
 
