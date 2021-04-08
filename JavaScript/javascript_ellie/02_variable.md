@@ -1,6 +1,6 @@
 드림코딩 by 엘리
 
-```jacvascript
+```javascript
 
 
 'use strict';
