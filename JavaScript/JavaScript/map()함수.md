@@ -19,4 +19,20 @@ console.log(addDay);
 let num = [1,2,3,4,5];
 let result = num.map(multiply => multiply * 2);
 console.log(result);
+
+```
+
+#### 오브젝트에서 이름만 뽑기
+
+```javascript
+
+const friends = [
+  {name: "Mark", age:25},
+  {name: "Ellie", age:28},
+  {name: "Yerin", age:10}
+]
+const friendsName = friends.map(friendsName => friendsName.name);
+console.log(friendsName);
+
+
 ```
