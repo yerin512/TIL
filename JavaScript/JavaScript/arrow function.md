@@ -59,7 +59,7 @@ let sayHello = function(num1, num2){
 
 ```
 
-```javscript
+```javascript
 
 let sayHello = (num1, num2) => {
     return num1 + num2;
@@ -68,6 +68,9 @@ let sayHello = (num1, num2) => {
 
 //코드가 한줄이고 리턴문이 있기 때문에 변경가능
 //리턴문의 경우 {}를 ()로 바꿀 수 있다.
+```
+
+```javascript
 
 let sayHello = (num1, num2) => (
     num1 + num2
