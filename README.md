@@ -9,7 +9,7 @@
 * 카테고리 별로 나누어 저장합니다.
 
 ## 😁 Categories 
-* [Git](#git)
+* [Git](#git) 
 * [JavaScript](#javascript)
 * [React](#react)
 
