@@ -15,8 +15,6 @@
 ## 😁 Projects
 
 - [단어장(React)](https://github.com/yerin512/voca)
-- [영화관 App(React)](https://github.com/yerin512/movie_app)
-- [알파카 - 중고도서판매사이트 (JAVA, Spring)](https://github.com/kaipi10hou/bitTeam)
 
 ### 📕 TIL - JavaScript
 
