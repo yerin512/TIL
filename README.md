@@ -10,6 +10,7 @@
 <details>
 <summary>2022</summary>
 <div markdown="1">
+11월 - 코드숨 프로젝트
 10월 - 코드숨 프로젝트, API 테스트 <br/>
 09월 - 코드숨 프로젝트 / <a href="www.naver.com">이것이 코딩테스트다</a> / <a href="www.naver.com">코딩인터뷰 완전분석</a> <br/>
 08월 -
