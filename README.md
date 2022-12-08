@@ -10,10 +10,12 @@
 <details>
 <summary>2022</summary>
 <div markdown="1">
-11월 - 코드숨 프로젝트
-10월 - 코드숨 프로젝트, API 테스트 <br/>
-09월 - 코드숨 프로젝트 / <a href="www.naver.com">이것이 코딩테스트다</a> / <a href="www.naver.com">코딩인터뷰 완전분석</a> <br/>
-08월 -
+12월 - 코드숨 프로젝트(edit all), 구글 엔지니어는 이렇게 일한다
+<br/>
+11월 - 코드숨 프로젝트(edit all)<br/>
+10월 - 코드숨 프로젝트(코드숨 공부방 예약), 일상 속 사물이 알려주는 웹 API 디자인 <br/>
+09월 - 코드숨 프로젝트(코드숨 사이트) / <a href="www.naver.com">이것이 코딩테스트다</a> / <a href="www.naver.com">코딩인터뷰 완전분석</a> <br/>
+08월 - 코드숨 리액트 과정
 </div>
 </details>
 
@@ -21,7 +23,7 @@
 <details>
 <summary>읽고 있는 책</summary>
 <div markdown="1">
-일상 속 사물이 알려주는 웹 API 디자인 <br/>
+구글엔지니어는 이렇게 일한다 <br/>
 코딩인터뷰 완전분석
 </div>
 </details>
@@ -29,6 +31,7 @@
 <details>
 <summary>다 읽은 책</summary>
 <div markdown="1">
+일상 속 사물이 알려주는 웹 API 디자인 <br/>
 비전공자를 위한 이해할 수 있는 it 지식
 </div>
 </details>
