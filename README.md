@@ -23,6 +23,7 @@
 <details>
 <summary>읽고 있는 책</summary>
 <div markdown="1">
+스크럼 마스터가 된 건에 대하여 <br/>
 구글엔지니어는 이렇게 일한다 <br/>
 코딩인터뷰 완전분석
 </div>
