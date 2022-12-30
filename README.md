@@ -23,7 +23,7 @@
 <details>
 <summary>읽고 있는 책</summary>
 <div markdown="1">
-스크럼 마스터가 된 건에 대하여 <br/>
+웹 개발자를 위한 자바스크립트의 모든 것<br/>
 구글엔지니어는 이렇게 일한다 <br/>
 코딩인터뷰 완전분석
 </div>
@@ -33,7 +33,8 @@
 <summary>다 읽은 책</summary>
 <div markdown="1">
 일상 속 사물이 알려주는 웹 API 디자인 <br/>
-비전공자를 위한 이해할 수 있는 it 지식
+비전공자를 위한 이해할 수 있는 it 지식 <br/>
+스크럼 마스터가 된 건에 대하여 <br/>
 </div>
 </details>
 
